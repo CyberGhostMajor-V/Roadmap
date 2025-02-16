@@ -51,7 +51,7 @@ Are you someone who's delving into the realm of hacking as a hobby, eager to exp
 #### Step 1: Learn the Basics on [TryHackMe](https://tryhackme.com/signup?referrer=630a8d48aa25650060a8f62d)
 - **Objective:** Build a foundational understanding of hacking concepts and techniques in a guided environment.
 - **Actions:**
-  - [ ] Sign up for a [TryHackMe account](https://tryhackme.com/signup?referrer=630a8d48aa25650060a8f62d).
+  - [x] Sign up for a [TryHackMe account](https://tryhackme.com/signup?referrer=630a8d48aa25650060a8f62d).
   - Complete introductory rooms and pathways to learn about topics such as:
     - [ ] [The complete beginner path](https://tryhackme.com/path/outline/beginner?referrer=630a8d48aa25650060a8f62d)
     - [ ] [Introduction to Cyber Security](https://tryhackme.com/path/outline/introtocyber?referrer=630a8d48aa25650060a8f62d)

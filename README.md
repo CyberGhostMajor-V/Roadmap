@@ -55,7 +55,7 @@ Are you someone who's delving into the realm of hacking as a hobby, eager to exp
   - Complete introductory rooms and pathways to learn about topics such as:
     - [ ] [The complete beginner path](https://tryhackme.com/path/outline/beginner?referrer=630a8d48aa25650060a8f62d)
     - [ ] [Introduction to Cyber Security](https://tryhackme.com/path/outline/introtocyber?referrer=630a8d48aa25650060a8f62d)
-    - [ ] [Webs Fondamentals](https://tryhackme.com/path/outline/web?referrer=630a8d48aa25650060a8f62d)
+    - [ ] [Webs Fundamentals](https://tryhackme.com/path/outline/web?referrer=630a8d48aa25650060a8f62d)
     - [ ] [Red Teaming](https://tryhackme.com/path/outline/redteaming?referrer=630a8d48aa25650060a8f62d)
     - [ ] [Jr Penetration Tester](https://tryhackme.com/path/outline/jrpenetrationtester?referrer=630a8d48aa25650060a8f62d)
 - **Explanation:** TryHackMe offers beginner-friendly content that covers essential topics, making it an ideal starting point for those new to hacking.
